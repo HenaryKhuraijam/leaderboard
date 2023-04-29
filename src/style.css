@@ -4,8 +4,24 @@
   padding: 0;
 }
 
+body {
+  font-family: sans-serif;
+  background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 65.94%);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
 header {
   padding: 20px 30px;
+}
+
+h1 {
+  color: hsl(240, 100%, 20%);
+  font-size: 50px;
+}
+
+h2 {
+  color: rgb(253, 250, 247);
 }
 
 main,
@@ -20,7 +36,8 @@ form {
 
 button {
   padding: 8px;
-  box-shadow: 2px 2px;
+  box-shadow: 3px 3px 4px rgb(179, 215, 210);
+  border-radius: 1px;
 }
 
 main {
@@ -43,6 +60,7 @@ form input {
   border: 2px solid #000;
   max-height: 50vh;
   overflow-y: auto;
+  background-color: aliceblue;
 }
 
 .leaderboard,
@@ -57,7 +75,7 @@ form input {
 }
 
 .leaders:nth-child(even) {
-  background-color: #dfdfdf;
+  background-color: hsl(175, 73%, 89%);
 }
 
 .btn-submit {
