@@ -75,7 +75,7 @@ form input {
 }
 
 .leaders:nth-child(even) {
-  background-color: hsl(175, 73%, 89%)
+  background-color: hsl(175, 73%, 89%);
 }
 
 .btn-submit {
