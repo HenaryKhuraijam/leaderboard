@@ -44,6 +44,18 @@
 -Webpack
 -API</a>
 
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>Html</li>
+    <li>Css </li>
+    <li>Javascript </li>
+    <li> Webpack </li>
+     </ul>
+</details>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -136,8 +148,6 @@ GitHub pages
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add application's styling]**
 - [ ] **[build a complete website with working navigation.]**
