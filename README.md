@@ -44,20 +44,6 @@
 -Webpack
 -API</a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>Html</li>
-    <li>Css </li>
-    <li>Javascript </li>
-    <li> Webpack </li>
-     </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
