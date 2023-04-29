@@ -34,19 +34,21 @@ form {
   padding: 10px 20px;
 }
 
+form input {
+  border: 1px solid #000;
+}
+
 .leaderboard {
   list-style: none;
   border: 2px solid #000;
+  max-height: 50vh;
+  overflow-y: auto;
 }
 
 .leaderboard,
 .form-input,
 .leaders {
   width: 100%;
-}
-
-form input {
-  border: 1px solid #000;
 }
 
 .form-input,
